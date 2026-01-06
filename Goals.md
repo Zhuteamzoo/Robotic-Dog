@@ -1,4 +1,4 @@
-#Goals
+# Goals
 
 Here are some of the things that I want the robotic dog to have. Some of these features might not be added this is just brainstorming.
 - Roboti Claw
