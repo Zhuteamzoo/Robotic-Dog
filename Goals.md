@@ -1,7 +1,7 @@
 # Goals
 
 Here are some of the things that I want the robotic dog to have. Some of these features might not be added this is just brainstorming.
-- Roboti Claw
+- Robotic Claw
 - Fully autonomous:
 It will go search for sunlight in the house so that it can recharge itself
 It will go search for tasks to do once its battery is full
