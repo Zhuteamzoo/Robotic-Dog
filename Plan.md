@@ -1,8 +1,8 @@
 # Robotic Dog — Milestone Plan 🐾🤖
 
 ## Milestone 0 — Project Setup
-- [X] Create repository structure
-- [X] Define safety rules (kill switch, safe pose)
+- [ X ] Create repository structure
+- [ X ] Define safety rules (kill switch, safe pose)
 
 ---
 
