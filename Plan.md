@@ -1,10 +1,8 @@
 # Robotic Dog — Milestone Plan 🐾🤖
 
 ## Milestone 0 — Project Setup
-- [ ] Create repository structure
-- [ ] Choose controller (Arduino / ESP32)
-- [ ] Servo test (single servo sweep)
-- [ ] Define safety rules (kill switch, safe pose)
+- [X] Create repository structure
+- [X] Define safety rules (kill switch, safe pose)
 
 ---
 
