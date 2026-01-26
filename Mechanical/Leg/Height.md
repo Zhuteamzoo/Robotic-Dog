@@ -27,6 +27,8 @@ It's going to be harder to balance the dog and make it walk since it's taller
 ---
 
 We can see that from these results that I'll need a tall enough robot to reach certain places, but also take into account it's balance and stability.
+For the height I think the optimal height would be 600mm when standing idle and when he's standing at his tallest maybe around ~650mm or more. This makes it so that his claw can reach most tables while
+still optimizing his stability.
 
 ## Sources
 
