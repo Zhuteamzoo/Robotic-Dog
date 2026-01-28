@@ -19,4 +19,4 @@ does lose a bit of precision though. But I won't be needing as much precision as
 
 This one was very detailed and useful: https://journals.sagepub.com/doi/pdf/10.1177/1729881419844148
 
-I also ued some of the old sources from the Inital Design document
+I also used some of the old sources from the Inital Design document.
