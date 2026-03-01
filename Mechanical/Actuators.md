@@ -17,7 +17,7 @@ Instead of a Odrive S1 like how aaed used i will proabbly use a moteus since the
 ## Price comparaison
 
 |Part|OdriveS1|Moteus|
-----------------------
+|----|--------|------|
 |Motor|89$|89$|
 |Controller|203$|80$|
 |Additional sutff|50$|50$|
