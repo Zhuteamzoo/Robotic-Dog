@@ -21,3 +21,9 @@ The moteus r 4.11 comes with one of those little magnet thingies that we use for
 
 The moteus's continuous phase current is 12A/32A (w/o thermal management, w/ thermal management). The motor that I found could take up to ~62A of continuous current so the power of my motor will be cut in half. On top of that, the moteus
 will need to have some thermal management. There will be air vents for passive cooling, but there will also be other methods of cooling. I will try to not resolve to a fan or water cooling since that could get bulky really quick.
+
+## Thermal Management
+
+I will be using the moteus heat spreader and passive cooling with air vents in my actuator to maximise the amount of amps that the moteus can output
+
+Heat Spreader: https://mjbots.com/products/moteus-heat-spreader?_pos=1&_sid=d6c56b4af&_ss=r
