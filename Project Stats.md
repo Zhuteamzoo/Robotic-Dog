@@ -6,8 +6,9 @@
 
 |Item|Cost|
 |----|----|
-|Power supply and accessories|426.62 CAD|
+|Power supply and accessories|447.30 CAD|
 |Moteus and accessories|269.56 CAD|
+|GoBilda PDB|60.39 CAD|
 |Motor|131.95 CAD|
-|Total|~828.13 CAD|
+|Total|~909.29 CAD|
 
