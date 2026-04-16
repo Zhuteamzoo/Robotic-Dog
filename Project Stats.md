@@ -12,7 +12,8 @@ This is the cost of the project with out including any tools and just taking int
 |BLDC motor|131.95$|
 |BLDC motor import fess|~100$|
 |Power supply and accessories|271.74$|
-|Total|893.64|
+|Extra Accessories|95 CAD|
+|Total|988.64 CAD|
 
 
 ---
