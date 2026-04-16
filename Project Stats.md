@@ -1,19 +1,21 @@
 # Project stats
 
----
+# Cost
 
-## Cost
+This is the cost of the project with out including any tools and just taking into account all the materials necessary for the project. This price does include shipping, import taxes, taxes, etc. 3D printing filament cost will not be taken into account for this count. This is the cost for one of my actuators and also includes the price for the electrical work.
 
 |Item|Cost|
 |----|----|
-|Power supply and accessories|447.30 CAD|
-|Moteus and accessories|269.56 CAD|
 |GoBilda PDB|60.39 CAD|
-|Motor|131.95 CAD|
-|Total|~909.29 CAD|
+|Moteus and its accessories|269.56 CAD|
+|Import fees for Moteus|~60 CAD|
+|BLDC motor|131.95$|
+|BLDC motor import fess|~100$|
+|Power supply and accessories|271.74$|
+|Total|893.64|
+
 
 ---
-
 ## Estimations
 
 I'm estimating that this project will cost less than 4000 CAD and that is what I'll be aiming for.
