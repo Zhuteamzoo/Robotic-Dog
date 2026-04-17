@@ -10,3 +10,7 @@ I've also seen Aaed Musa's planetary gearbox and it seems different from the oth
 This is Aaed Musa's planetary gear box and the sun gear is really small while the planet gears are really big. I'll have to do some research on that to see if it is the most effective way. Most of the other planteray gearboxes that I've seen so far have a big sun gear and small planet gears.
 
 <img width="900" height="521" alt="image" src="https://github.com/user-attachments/assets/367f9913-b8ac-4ab0-b16a-73da1e9a3ff4" />
+
+## How to CAD
+
+I'm using OnShape to CAD my whole project and luckily for me OnShape has a built in feature for planetary gearboxes which makes the process way easier for me. They even posted a video about it on YouTube: https://www.youtube.com/watch?v=zWfNNr2b8QE. I will do some research and see if this is good or not
