@@ -11,6 +11,11 @@ This is Aaed Musa's planetary gear box and the sun gear is really small while th
 
 <img width="900" height="521" alt="image" src="https://github.com/user-attachments/assets/367f9913-b8ac-4ab0-b16a-73da1e9a3ff4" />
 
+<img width="393" height="275" alt="image" src="https://github.com/user-attachments/assets/7a16f0f4-31be-43de-b052-c386d554b477" />
+
+these photos are all open source and come from Aaed Musa's OpenQDD https://www.instructables.com/OpenQDD-V1-3D-Printed-Robotic-Actuator/
+
+
 ## How to CAD
 
 I'm using OnShape to CAD my whole project and luckily for me OnShape has a built in feature for planetary gearboxes which makes the process way easier for me. They even posted a video about it on YouTube: https://www.youtube.com/watch?v=zWfNNr2b8QE. I will do some research and see if this is good or not
