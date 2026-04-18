@@ -28,3 +28,10 @@ There will be a carrier on top of the motor so that the rotation of all 3 planet
 
 This is a photo from said source that shows the layout of how it will look
 
+## Settings on Onshape
+
+These are the settings for my planetary gearbox on Onshape since they come with a built in model you can use.
+
+<img width="361" height="704" alt="Screenshot 2026-04-17 205930" src="https://github.com/user-attachments/assets/82b8db9b-f350-4725-8a07-fca074b821be" />
+
+
